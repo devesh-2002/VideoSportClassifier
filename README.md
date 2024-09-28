@@ -1,4 +1,6 @@
 # VideoSportClassifier
+Video Sports Classfier created using Transfer Learning on ResNet based on 5 labels : 'basketball', 'baseball', 'cricket', 'beach soccer','golf'. 
+
 ## Setup 
 1. Fork and Clone the repo.
 2. Create virtual environment and activate the virtual environment.
