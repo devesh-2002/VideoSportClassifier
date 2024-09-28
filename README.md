@@ -1,4 +1,4 @@
-#VideoSportClassifier
+# VideoSportClassifier
 ## Setup 
 1. Fork and Clone the repo.
 2. Create virtual environment and activate the virtual environment.
